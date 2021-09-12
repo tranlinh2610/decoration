@@ -1,0 +1,40 @@
+.btn-create{
+    background-color: #6dacca;
+    color: #fff;
+}
+.btn-create:hover{
+    color: #fff !important;
+    border-color: bisque;
+}
+.btn-edit{
+    color: #fff;
+    border-radius: 10px !important;
+    background-color: #ffeb3b; 
+}
+.btn-edit:hover{
+    color: #fff !important;
+    border-color: bisque;
+    background-color: #ff9800;
+}
+.btn-delete{
+    color: #fff;
+    border-radius: 10px !important;
+    background-color: #f44336;
+
+}
+.btn-delete:hover{
+    color: #fff !important;
+    border-color: bisque;
+    background-color: #ff0000;
+}
+.btn-details{
+    background-color: #2fcf8d!important;
+    color: #fff;
+    border-radius: 10px !important;
+}
+.btn-details:hover{
+    color: #fff !important;
+    border-color: bisque;
+    background-color: #06b46c!important;
+}
+ 
