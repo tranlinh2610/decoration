@@ -35,7 +35,7 @@ $resultProduct = $link->query("SELECT products.*, categories.* from products INN
                         <div class="card">
                             <div class="card-header">
                                 <div class="card-title">
-                                    <h4>List product of <?= $resultCategories['ctg_name'] ?> </h4>
+                                    <h4 class="text-center mt-3" style="color: #72cddc; font-weight: 500;">List product of <?= $resultCategories['ctg_name'] ?> </h4>
                                 </div>
                             </div>
                             <div class="card-body">

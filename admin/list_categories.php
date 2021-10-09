@@ -28,7 +28,7 @@ if (!isset($_SESSION['current_user'])) {
                         <div class="card">
                             <div class="card-header">
                                 <div class="card-title">
-                                    <h4> Select categories </h4>
+                                    <h4 class="text-center mt-3" style="color: #72cddc; font-weight: 500;"> Select categories </h4>
                                 </div>
                             </div>
                             <div class="card-body">
